@@ -91,7 +91,7 @@ Actualmente busco consolidarme en un rol técnico orientado a la construcción, 
 ---
 
 ## 📫 Contacto
-
+- Correo: 00123edu17@gmail.com
 - LinkedIn: https://www.linkedin.com/in/edward-delgadillo-agurto/
 
 ---
