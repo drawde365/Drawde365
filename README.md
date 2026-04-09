@@ -28,7 +28,6 @@ Actualmente busco consolidarme en un rol técnico orientado a la construcción, 
 ### Frontend
 - HTML, CSS
 - React
-- Vite
 - Bootstrap / React-Bootstrap
 - ASP.NET WebForms (.NET)
 
